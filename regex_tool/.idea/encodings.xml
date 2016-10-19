@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/regex_tool/src/ComRegex.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/Controller/CheckController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/Controller/CommitController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/Controller/CommitUploadController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/Controller/EditAndDelController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/Controller/RightKeyController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/Controller/UploadController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/SwtTest/LayoutTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/SwtTest/MixTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/View/CreateRecordView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/View/MainView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/View/UpdateRecordView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/mainFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/regex_tool/src/toolFrame.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
